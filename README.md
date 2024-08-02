@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharat Dinkar Nandanvar</h1>
+<h1 align="center">Hi 👋, I'm Bharat Nandanvar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bharat-91&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-91" /> </p>
